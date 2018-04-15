@@ -13,12 +13,12 @@ Weather data is retrieved from http://openweathermap.org/
 
 **Running the application**
 
- 1.clone the repository https://github.com/sarangsawant/Weather-App.git
+ 1. clone the repository https://github.com/sarangsawant/Weather-App.git
  
- 2.cd weather-application
+ 2. cd weather-application
  
- 3.run npm install
+ 3. run npm install
  
- 4.Get your api key from http://openweathermap.org/. Set your key to constant 'APP_KEY'
+ 4. Get your api key from http://openweathermap.org/. Set your key to constant 'APP_KEY'
  
- 5.npm start
+ 5. npm start
