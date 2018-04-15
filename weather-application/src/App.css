@@ -24,13 +24,13 @@ body {
 
 .title-container {
     height: 90vh;
-    background: url("img/bg.jpg") center center no-repeat;
+    background: url("img/rise.jpg") center center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #000;
+    color: #fffs;
 }
 
 .title-container__title {
