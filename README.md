@@ -6,7 +6,7 @@ A simple weather information app build with React.js
 
 Statefull and Stateless react components are used to develop the application
 
-Bootstramp and google font apis are used for styling the web page
+Bootstrap3 and google font apis are used for styling the web page
 
 Weather data is retrieved from http://openweathermap.org/
 
