@@ -22,3 +22,6 @@ Weather data is retrieved from http://openweathermap.org/
  4. Get your api key from http://openweathermap.org/. Set your key to constant 'APP_KEY'
  
  5. npm start
+
+
+<img width="895" alt="screenshot" src="https://user-images.githubusercontent.com/17701617/39101851-8a23182a-466c-11e8-9b50-3aa3a03fe0a9.png">
